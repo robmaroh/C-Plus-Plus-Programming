@@ -1,4 +1,4 @@
-# CplusplusProgram
+# CS-210 System Analysis and Design
 Repository for my class work in C++
 
 # Description of programs
