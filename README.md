@@ -1,5 +1,5 @@
 # System Analysis and Design
-Repository for my class work in C++
+Repository for projects in C++
 
 # Description of programs
 I have created an app called Calculator that allows the user to perform simple calculations, such as add, subtract, multiply and divide.
